@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class ArrayRange {
+public class RangeOfArray {
 
     public static void main(String args[]) {
 
